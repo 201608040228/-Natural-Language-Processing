@@ -1,3 +1,4 @@
+<<<<<<< 113118888b1fb666ffcf03cc7cb94cbed28ae2f2
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +128,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+=======
+models/
+preprocessed/
+raw/
+*.pyc
+vocab.search
+local
+bleu_metric
+rouge_metric
+.idea/
+add_copyright.py
+copyright
+.DS_Store
+>>>>>>> baseline
